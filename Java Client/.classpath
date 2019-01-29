@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="com/marketsharp/api/" kind="src" path="src"/>
+	<classpathentry excluding="Zoho/ZohoReportClient/javadocs/com/adventnet/zoho/client/report/|Zoho/ZohoReportClient/javadocs/com/adventnet/zoho/client/report/" kind="src" path="ZohoReportAPIClient"/>
+	<classpathentry kind="src" path="src/com/marketsharp/api"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/ZohoReportAPIClient"/>
+	<classpathentry kind="lib" path="/ZohoReportAPIClient/Zoho/ZohoReportClient/lib/ZohoReportAPIClient.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arsalan Younus/Desktop/ZohoReportAPIClient/Zoho/ZohoReportClient/lib/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arsalan Younus/Desktop/ZohoReportAPIClient/Zoho/ZohoReportClient/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arsalan Younus/Desktop/ZohoReportAPIClient/Zoho/ZohoReportClient/lib/commons-logging-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arsalan Younus/Desktop/ZohoReportAPIClient/Zoho/ZohoReportClient/lib/json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arsalan Younus/Desktop/ZohoReportAPIClient/Zoho/ZohoReportClient/lib/zr-csv.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
